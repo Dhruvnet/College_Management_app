@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".fragments.about_fragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="250dp"
+                android:layout_margin="10dp"
+                android:src="@drawable/college" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/cambria"
+                android:justificationMode="inter_word"
+                android:padding="5dp"
+                android:text="A pioneer institute in the field of Education – Since 1983, VES Polytechnic is in stride with the changing needs of society, as change is the most powerful force in current world. A long cherished dream, a magazine of VESP, an apt venue express ideas / ideals is blooming with fragrance to face the challenges ahead."
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/cambria"
+                android:justificationMode="inter_word"
+                android:padding="5dp"
+                android:text="A desire or a dream blossoms in scintillating and vibrant human mind which can accomplish extraordinary events. To regulate the power of the mind it has to be harnessed and focused to the task. In attaining aims and realizing the goals – set a clear mental picture of the pursuit, create a little pressure behind it, frame a deadline and be committed towards the goal. Hitting the target for fulfilling the purpose of life is the victory. Victory befalls on truthful, hardworking individuals as truth is mightier than time and always the strongest argument even though time spent can not be retrieved."
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/cambria"
+                android:text="Courses"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+                android:textSize="28dp"
+                android:textStyle="bold|italic" />
+            <View
+                android:layout_width="250dp"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                />
+
+            <androidx.viewpager.widget.ViewPager
+                android:id="@+id/slideshow"
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:layout_margin="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:fontFamily="@font/cambria"
+                android:text="Contact Details"
+                android:textAlignment="center"
+                android:textSize="28dp"
+                android:textStyle="bold|italic" />
+            <View
+                android:layout_width="250dp"
+                android:layout_height="1dp"
+                android:layout_gravity="center"
+                android:background="@color/black"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:fontFamily="@font/cambria"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+                android:verticalSpacing="10dp"
+                android:text=" College Name : "
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:fontFamily="@font/cambria"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Vivekananda Education Society Polytechnic"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginTop="20dp"
+                android:padding="4dp"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textAlignment="center"
+                android:verticalSpacing="10dp"
+                android:text="Place : "
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Chembur , Mumbai"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:layout_marginTop="20dp"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:verticalSpacing="10dp"
+                android:text="Phone no : "
+                android:textSize="16dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="	25290486 \n 25227638 \n  85919 83683  (Admission)"
+                android:textSize="20dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="4dp"
+                android:layout_marginTop="20dp"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:verticalSpacing="10dp"
+                android:text="Contact via Email : "
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:padding="10dp"
+                android:textAlignment="center"
+                android:justificationMode="inter_word"
+                android:textColor="@color/black"
+                android:text="vesp.anyhelp@gmail.com"
+                android:textSize="18dp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+</RelativeLayout>

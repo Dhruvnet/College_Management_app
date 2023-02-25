@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.vesp.fragments.home_fragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home_fragment"/>
+
+    <fragment
+        android:id="@+id/announcement"
+        android:name="com.example.vesp.fragments.announcement_fragment"
+        android:label="Announcement"
+        tools:layout="@layout/fragment_announcement_fragment"/>
+
+    <fragment
+        android:id="@+id/faculty"
+        android:name="com.example.vesp.fragments.faculty_fragment"
+        android:label="Faculty"
+        tools:layout="@layout/fragment_faculty_fragment"/>
+
+    <fragment
+        android:id="@+id/gallery"
+        android:name="com.example.vesp.fragments.gallery_fragment"
+        android:label="Gallery"
+        tools:layout="@layout/fragment_gallery_fragment"/>
+
+    <fragment
+        android:id="@+id/about"
+        android:name="com.example.vesp.fragments.about_fragment"
+        android:label="About Us"
+        tools:layout="@layout/fragment_about_fragment"/>
+
+</navigation>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/login"
+    android:title="Login"
+    android:icon="@drawable/login">
+    <menu>
+        <item
+            android:id="@+id/adminlid"
+            android:icon="@drawable/adminlogin"
+            android:title="Admin Login"
+            />
+        <item
+            android:id="@+id/teacherlid"
+            android:icon="@drawable/trlogin"
+            android:title="Teacher Login"
+            />
+        <item
+            android:id="@+id/studentlid"
+            android:icon="@drawable/stdlogin"
+            android:title="Student Login"
+            />
+    </menu>
+</item>
+<item
+    android:id="@+id/websiteid"
+    android:icon="@drawable/website"
+    android:title="Website"
+    />
+<item
+    android:id="@+id/themeid"
+    android:icon="@drawable/theme"
+    android:title="Theme"
+    />
+<item
+    android:id="@+id/developerid"
+    android:icon="@drawable/developer"
+    android:title="Developers"
+    />
+<item
+    android:id="@+id/rateusid"
+    android:icon="@drawable/rateus"
+    android:title="Rate Us"
+    />
+<item
+    android:id="@+id/shareid"
+    android:icon="@drawable/share"
+    android:title="Share App"
+    />
+
+
+
+</menu>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561333630876",
+    "project_id": "vesp-73ee1",
+    "storage_bucket": "vesp-73ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561333630876:android:229fd901f04fda5833ba59",
+        "android_client_info": {
+          "package_name": "com.example.vesp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561333630876-id2gkqvjpvvm7hjiort5dj6uv3sdcs65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe-phyRpsdeGagWLIBVTIOd7Wxo30JlS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561333630876-id2gkqvjpvvm7hjiort5dj6uv3sdcs65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

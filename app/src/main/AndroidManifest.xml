@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.vesp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:largeHeap="true"
+        android:theme="@style/Theme.Project">
+        <meta-data
+            android:name="com.google.android.geo.API.KEY"
+            android:value="AIzaSyAWPBtiw2kGBURkMPcAydkPGhc3jEzFJ_Y">
+        </meta-data>
+        <activity
+            android:name=".teacherdashboard.add_notice"
+            android:exported="false" />
+        <activity
+            android:name=".teacherdashboard.add_student"
+            android:exported="false" />
+        <activity
+            android:name=".teacherdashboard.add_attendence"
+            android:exported="false" />
+        <activity
+            android:name=".teacherdashboard.add_notes"
+            android:exported="false" />
+        <activity
+            android:name=".studentdashboard.view_notes"
+            android:exported="false" />
+        <activity
+            android:name=".studentdashboard.View_attendence"
+            android:exported="false" />
+        <activity
+            android:name=".teacherdashboard.t1"
+            android:exported="false" />
+        <activity
+            android:name=".ClickedItemActivity"
+            android:exported="false" />
+        <activity
+            android:name=".studentdashboard.s1"
+            android:exported="false" />
+        <activity
+            android:name=".admindashboard.addadmin"
+            android:exported="false" />
+        <activity
+            android:name=".admindashboard.addteacher"
+            android:exported="false" />
+        <activity
+            android:name=".admindashboard.d1"
+            android:exported="false" />
+        <activity
+            android:name=".hamburger.teacherlogin"
+            android:exported="false" />
+        <activity
+            android:name=".hamburger.studentlogin"
+            android:exported="false" />
+        <activity
+            android:name=".hamburger.adminlogin"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

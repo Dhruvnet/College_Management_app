@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_add_notes.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_add_notice.xml" value="0.33" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_addteacher.xml" value="0.3020833333333333" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_d1.xml" value="0.32788559754851887" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_s1.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_t1.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/activity_view_notes.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/fragment_about_fragment.xml" value="0.3546875" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/fragment_faculty_fragment.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/fragment_home_fragment.xml" value="0.24429223744292236" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/fragment_map.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/fragment_me.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/notes_item_layout.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/notice_display.xml" value="0.334375" />
+        <entry key="..\:/College App/VESP/app/src/main/res/layout/teacher_display.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/drawable/barderfull.xml" value="0.248" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/drawable/line.xml" value="0.248" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/font/font.xml" value="0.3729166666666667" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/font/poppins.xml" value="0.3729166666666667" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_add_attendence.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_add_notes.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_add_notice.xml" value="0.25" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_add_student.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_addadmin.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_addteacher.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_admin.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_adminlogin.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_clicked_item.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_d1.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_s1.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_studentlogin.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_t1.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_teacherlogin.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_view_attendence.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/activity_view_notes.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/adminheader.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_about_fragment.xml" value="0.25" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_announcement_fragment.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_ce.xml" value="0.3302083333333333" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_faculty_fragment.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_gallery_fragment.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_home_fragment.xml" value="0.25" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/fragment_map.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/nav_graph.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/notice_display.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/spinneritem.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/studentheader.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/layout/teacherheader.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/menu/adminprofil.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/menu/bottomnavigation.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/menu/hambuger.xml" value="0.3302083333333333" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/menu/studentprofil.xml" value="0.334375" />
+        <entry key="..\:/Desktop/College App/VESP/app/src/main/res/menu/teacherprofile.xml" value="0.334375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
