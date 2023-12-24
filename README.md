@@ -1,4 +1,4 @@
-## 📢 College_Management_app -: Elevating Education, Connecting Minds: VESP App, Your Gateway to Seamless Learning
+## 📢 College_Management_app 
 
 Empowering connectivity and knowledge dissemination, our Android app for VESP (Vivekananda Education Society Polytechnic) is a one-stop hub for teachers to effortlessly share notes and notices. Seamlessly integrating vital information about every faculty member, students can easily connect with their instructors. This comprehensive app ensures students have instant access to all essential college details, fostering a streamlined and enriched educational experience.
 
